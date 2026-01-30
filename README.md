@@ -11,3 +11,6 @@ Use:
 * bash_scripts_echam_base_exp_no_MOA.tar.gz contains the same scripts for the simulation experiment without marine organic aerosol
   
 * *immersed_droplet.sh for the immersed aerosol in cloud droplets and after_burner_easy_temperature.sh for tempererature (offline_INP_concentration project)
+
+### Contributions
+- Bernd Heinold Dr. - provided the draft scripts upon which the current versions are based
